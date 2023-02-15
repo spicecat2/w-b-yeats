@@ -19,13 +19,9 @@ hero_media = "/img/portrait.jpg"
 	# Primary color
 	primary = true
 
-[[btn]]
-  url = "#contact"
-  label = 'Contact me'
-
 +++
 
 # A theme to **express** your ideas.
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+W. B. Yeats is a minimalist, readable, responsive, light and beautiful Hugo theme.
 

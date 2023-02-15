@@ -41,16 +41,10 @@ url = "/"
 weight = 10 
 
 [[menu.main]]
-identifier = "blog" # identifier is use for translations
+identifier = "works" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/blog/" 
 weight = 20 
-
-[[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
 
 # Syntax highlightning
 [markup.highlight]
@@ -71,3 +65,6 @@ contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
 weight = 0
+
+[permalinks]
+blog = 'works/:filename'
