@@ -9,7 +9,7 @@ title = "Timeline"
 date_format = "2006"
 
 [[period]]
-  title = "Born in Dublin, Ireland"
+  title = "Born in Sandymount, Ireland"
   date_start = "1865-01-01"
   description = ""
 
