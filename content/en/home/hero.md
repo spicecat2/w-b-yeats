@@ -5,7 +5,7 @@ weight = 10
 hero_media = "img/portrait.jpg"
 
 [[btn]]
-  url = "/about"
+  url = "about"
   label = "Bio"
 	primary = true
 

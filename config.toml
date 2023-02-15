@@ -25,10 +25,16 @@ url = "/"
 weight = 10 
 
 [[menu.main]]
+identifier = "about"
+pre = ""
+url = "/about/" 
+weight = 20 
+
+[[menu.main]]
 identifier = "blog"
 pre = ""
 url = "/blog/" 
-weight = 20 
+weight = 30 
 
 [markup.highlight]
 guessSyntax = true 
