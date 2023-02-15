@@ -10,13 +10,13 @@ Yeats' poetry is known for its use of symbolism, imagery, and allusions to mytho
 Yeats won the Nobel Prize in Literature in 1923. He was also awarded an honorary doctorate from Trinity College Dublin and was made a member of the Order of Merit by King George V. He was also posthumously awarded the Freedom of the City of Dublin in 1939.  
 I have personally found Yeats' work to be incredibly inspiring and thought-provoking. His poems are filled with beautiful imagery and symbolism that speaks to the human experience. I am particularly drawn to his exploration of Irish identity and his use of language to evoke emotion. I believe that Yeats' legacy will continue to live on through his timeless works.  
 I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
-![](/img/krusty_krab.webp)
+![](img/krusty_krab.webp)
 
 The Krusty Krabe is a fast food restaurant known for it's signature burger:
 
-![*The Krabby Patty*](/img/krabby_patty.webp)
+![*The Krabby Patty*](img/krabby_patty.webp)
 
 Try to make one yourself and you will be as happy as I am.
-![My first Krabby Patty](/img/spongebob-krusty-cook.webp)
+![My first Krabby Patty](img/spongebob-krusty-cook.webp)
 
 You can take a look at the recipe [here](/blog/krabby_patty/).
