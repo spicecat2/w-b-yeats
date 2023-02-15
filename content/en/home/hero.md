@@ -1,27 +1,16 @@
 +++
 widget = "hero"
-# Order that this section will appear.
 weight = 10
 
-# Uncomment the following line and widget will NOT be displayed
-# hidden = true
-
-# Hero image (optional). Enter filename of an image in the `static/` folder.
 hero_media = "img/portrait.jpg"
 
-# Buttons
-# Add as much button as you want
 [[btn]]
-	# The url of the button
   url = "/about"
-	# The text of the button
   label = "Bio"
-	# Primary color
 	primary = true
 
 +++
 
-# A theme to **express** your ideas.
+# A poet at the forefront of 20th century literature
 
-W. B. Yeats is a minimalist, readable, responsive, light and beautiful Hugo theme.
-
+William Butler Yeats was an Irish poet and one of the most influential poets of the English-speaking world.

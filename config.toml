@@ -1,65 +1,45 @@
-# Use an empty string if you have multiple domain linking to your website
-# This string is used to generate the absolute URL for your assets.
-#baseURL = 'https://example.com/'
+baseURL = 'https://spicecat2.github.io/w-b-yeats/'
 defaultContentLanguage = 'en'
-# Emoji in markdown files
 enableEmoji = true
 languageCode = 'en-us'
-# Number of blog post per page
 paginate = 10
 theme = 'pico'
-# Title of the website is used for the meta tag title
-# and the square icon (not the favicon)
 title = 'W. B. Yeats'
 
 [params]
 customCSS = [
 	"style/style.css",
 	"style/theme.sass",
-] # Path relative to assets folder
-customJS = ["js/console.js"] # Path relative to assets folder
-# Homepage description
-# For blog page description you can overwrite it 
-# in the front matter
-description = "Boilerplate website"
-email = "mail@example.com"
-favicon = '/favicon.ico'
-# Dark mode support
-# Supported value are :
-# - off
-# - always
-# If commented the theme will use the browser theme.
-# darkMode = 'always'
+]
+customJS = ["js/console.js"]
 
-# Navigation bar
+description = "William Butler Yeats website"
+favicon = '/favicon.ico'
+
 [menu]
 
 [[menu.main]]
-identifier = "home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
+identifier = "home"
+pre = ""
 url = "/" 
 weight = 10 
 
 [[menu.main]]
-identifier = "blog" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
+identifier = "blog"
+pre = ""
 url = "/blog/" 
 weight = 20 
 
-# Syntax highlightning
 [markup.highlight]
 guessSyntax = true 
 lineNumbersInTable = true 
-noClasses = false # Set to false to use the Pico default theme.
+noClasses = false
 tabWidth = 2 
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 
-# Translation
-# English, French and Italian are supported but you can contribute
-# by adding translation to i18n/ folder.
 [languages.en]
 contentDir = 'content/en'
 languageCode = 'en'
