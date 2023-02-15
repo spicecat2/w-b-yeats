@@ -10,5 +10,3 @@ Yeats was heavily influenced by the Celtic Revival, a movement against English c
 
 Yeats’ early Irish works have received criticism for being overly ornate, and his later mystical poems were criticized for lacking in intellectual credibility, while other poets such as Seamus Heaney have commended Yeats for continually refining his poetic craftsmanship. Yeats was awarded the Nobel Prize in Literature in 1923, and is widely considered to be one of the greatest poets of the 20th century.
 
-I find Yeats' poetry to be beautiful and captivating. His use of often-complex language to paint vivid and powerful imagery is something I admire. He writes with a deep understanding of the human experience, which I feel is something that speaks to me and many others.
-
